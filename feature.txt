@@ -1,7 +1,3 @@
-<<<<<<< HEAD
 Hello, Git!
 
-new line of text
-=======
-Hello, Git!!!
->>>>>>> origin
+Let me tell you about todays sponsor!
